@@ -145,6 +145,7 @@ function DatetimePanel<DateType>(props: DatetimePanelProps<DateType>) {
       />
       <TimePanel
         {...props}
+        // @ts-ignore
         cellRender={
           cellRender
             ? (current, info) => cellRender(current as any, { ...info, type: 'time' })
