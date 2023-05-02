@@ -1,6 +1,6 @@
 {
   "name": "rc-picker-arc",
-  "version": "3.6.3",
+  "version": "3.6.4",
   "description": "React date & time picker",
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
     "type": "git",
     "url": "git@github.com:shadowlik/picker.git"
   },
-  "bugs": { 
+  "bugs": {
     "url": "http://github.com/shadowlik/picker/issues"
   },
   "license": "MIT",
